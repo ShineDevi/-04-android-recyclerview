@@ -5,24 +5,24 @@ NIM: 2041720065
 ## 1. MEMILIH EMPTY ACTIVITY
 ![EMPTY ACTIVITY](ss/emptyact.jpeg)
 ## 2. MENGATUR DEPENDENCIES
-![DEPENDENCIES SETTING](SS/dependencies.jpeg)
+![DEPENDENCIES SETTING]((ss/dependencies.jpeg)
 ## 3. MENAMBAHKAN ELEMEN RECYCLERVIEW PADA LAYOUT ACTIVITY
-![RECYCLERVIEW ELEMENT](SS/recycleview.jpeg)
+![RECYCLERVIEW ELEMENT]((ss/recycleview.jpeg)
 ## 4. MEMBUAT CLASS MODEL ITEM UNTUK MEREPESENTASIKAN ITEM
-![ITEM'S CLASS MODEL](SS/classmodel.jpeg)
+![ITEM'S CLASS MODEL](ss/classmodel.jpeg)
 ## 5. MEMBUAT LAYOUT BARU BERTIPE CARDVIEW
-![CARDVIEW](SS/cardview.jpeg)
+![CARDVIEW](ss/cardview.jpeg)
 ## 6. MEMBUAT ADAPTER
-![CREATING ADAPTER](SS/adapter.jpeg)
+![CREATING ADAPTER](ss/adapter.jpeg)
 ## 7. MEMBUAT DATA HOLDER
-![DATA HOLDER](SS/holder.jpeg)
+![DATA HOLDER](ss/holder.jpeg)
 ## 8. MEMBUAT DATA
-![CREAT DATA](SS/createdata.jpeg)
+![CREAT DATA](ss/createdata.jpeg)
 ## 9. IMPLEMENTASI KE MAIN ACTIVITY
-![MAIN ACTIVITY](SS/main.jpeg)
+![MAIN ACTIVITY](ss/main.jpeg)
 ## 10. HASIL
-![HASIL 1](SS/view1.jpeg)
-![HASIL 2](SS/view2.jpeg)
+![HASIL 1](ss/view1.jpeg)
+![HASIL 2](ss/view2.jpeg)
 
 
 
